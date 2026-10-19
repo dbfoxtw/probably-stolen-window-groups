@@ -1,3 +1,7 @@
+> **已搬家**：這個 mod 從 2026-10-19 起放在合併的 repo [dbfoxtw/probably-stolen-mods](https://github.com/dbfoxtw/probably-stolen-mods/tree/main/mods/window-groups)，新版本、原始碼與問題回報都在那裡。這個 repo 已封存，舊版本的 Releases 仍可下載。
+>
+> **Moved**: since 2026-10-19 this mod lives in the combined repository [dbfoxtw/probably-stolen-mods](https://github.com/dbfoxtw/probably-stolen-mods/tree/main/mods/window-groups). New releases, source code and issues are there. This repository is archived; old releases can still be downloaded.
+
 # Probably Stolen 視窗群組 mod（Window Groups）
 
 *Probably Stolen*（Demo）的 mod：把店裡開著的箱子、機器視窗和它們的位置存成群組，之後按一個鍵就全部叫回來、排回原位。最多 20 組。使用 MelonLoader，非官方製作。
